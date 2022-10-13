@@ -5,8 +5,8 @@ A simple and smart telegram bot capable of replying to and recording user messag
 - then essentially, it will be in full flow.
 
 ## Features
-1. Collects questions and comments from users
+1. Collects and records messages sent by users in different categories
 2. Sends custom messages to all members who have started the bot
 
 ## Library used
-- pyTelegramBotAPI
+- pyTelegramBotAPI (<a href='https://github.com/eternnoir/pyTelegramBotAPI'>Documentation and Package here.</a>)
